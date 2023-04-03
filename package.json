@@ -1,0 +1,17 @@
+{
+	"name": "mocha-chai-tutorial",
+	"version": "1.0.0",
+	"description": "Learning mocha and chai",
+	"main": "app.js",
+	"repository": "https://github.com/mikenandi/mocha-chai-learning.git",
+	"author": "Michael Nandi",
+	"license": "MIT",
+	"dependencies": {
+		"chai": "^4.3.7",
+		"express": "^4.18.2",
+		"mocha": "^10.2.0"
+	},
+	"scripts": {
+		"test": "mocha"
+	}
+}
